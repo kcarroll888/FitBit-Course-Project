@@ -12,3 +12,11 @@ The following files;
 
 `CodeBook.md` - Explains the variables, data and transformations carried out in the R code
 
+Project Aim
+---
+
+1. Using R code
+    + Download the data
+    + Tidy the data
+2. Write a code book to explain the variables, the data and the transformations to tidy the data
+
