@@ -1,8 +1,3 @@
----
-title: "README"
-output: html_document
----
----
 
 This repo contains my code and dosumentation for the course project for the Getting & Cleaning Data module of the John Hopkins Bloomberg Data Science MOOC.
 
